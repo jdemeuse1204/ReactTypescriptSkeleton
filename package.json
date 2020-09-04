@@ -24,7 +24,7 @@
     "font-awesome": "^4.7.0",
     "html-webpack-plugin": "^3.0.7",
     "lodash": "^4.17.11",
-    "node-sass": "^4.12.0",
+    "node-sass": "^4.13.1",
     "promise": "^8.0.3",
     "react": "^16.8.6",
     "react-dev-utils": "^9.0.1",
